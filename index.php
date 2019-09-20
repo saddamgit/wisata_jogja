@@ -1,4 +1,4 @@
-<html>
+
 <?php
 /**
  * CodeIgniter
@@ -315,4 +315,4 @@ switch (ENVIRONMENT)
  */
 require_once BASEPATH.'core/CodeIgniter.php';
 ?>
-</html>
+
